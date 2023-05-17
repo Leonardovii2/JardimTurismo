@@ -1,0 +1,160 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  padding: 0%;
+  margin: 0%;
+}
+
+/* --- NavBar ---*/
+
+.navbar {
+  background-color: #a0aa60;
+}
+
+.card-atrativos {
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+}
+
+.card {
+  margin: 0;
+}
+
+.fundo {
+  background-color: #bfbf5e;
+}
+
+.nav-link{
+  color: black;
+}
+
+.color-text {
+  text-decoration: none;
+  color: #c6e5fe;
+  margin-left: 15px;
+  font-size: 25px;
+}
+
+.navbar-toggler{
+  outline: none;
+}
+
+
+/* --- Main Image --- */
+
+.img-fluid {
+  height: 5vh;
+}
+
+.header-mov{
+  padding-bottom: 1%;
+}
+
+/* --- Atrativos Turísticos --- */
+.title-atrativo{
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1.5%;
+}
+
+.cards{
+  display: flex;
+  justify-content: center;
+}
+
+.card-img-top{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.card-text{
+  background: #ffffff;
+  padding-bottom: 6%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.card-text a{
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  color: black;
+}
+
+/* --- Cards --- */
+
+.principal-cards {
+  background-color: #afc06c;
+  padding: 2%;
+}
+
+.principal-cards-2{
+  background-color: #ffffff;
+  padding: 2%;
+}
+
+#div-text {
+  margin: 20px;
+}
+
+#text-atrativo1 {
+  margin: 30px;
+}
+
+@media (max-width: 768px){
+  .title-atrativo{
+    padding-bottom: 8%;
+  }
+  .principal-cards{
+    padding: 10%;
+  }
+  .principal-cards-2{
+    padding: 10%;
+  }
+  .color-text{
+    font-size: 22px;
+  }
+  main{
+    padding-top: 20px;
+  }
+  #text-footer {
+  font-size: 12px;
+  }
+  
+}
+
+/* --- História de Jardim --- */
+
+.historia-jd {
+  background-color: #ffffff;
+  padding: 30vh 30px;
+}
+
+/* --- Rodapé --- */
+
+.fundo-rodape1 {
+  background-color: #afc06c;
+  padding: 15px;
+}
+
+.container {
+  background-color: #bfbf5e;
+}
+
+.text-center {
+  background-color: #a0aa60;
+}
+
+.pahi{
+   text-align: center;
+}
+
+/* ------ Página Lagoa Misteriosa -----*/
+
+
+
